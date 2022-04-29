@@ -1,10 +1,10 @@
 {
-  "intro": "Hej",
+  "intro": "Hi!",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Chris Young",
   "subtitle": {
     "prefix": "I do all the setup ",
     "highlight": "for you",
@@ -12,7 +12,7 @@
   },
   "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Medium", "Github", "Twitter"],
     "showIcons": false
   }
 }
