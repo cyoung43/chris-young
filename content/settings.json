@@ -1,19 +1,19 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "siteUrl": "https://www.chris-young.dev",
+    "title": "Chris Young",
+    "titleTemplate": "Chris Young personal website and portfolio.",
+    "description": "This is the personal website of Chris Young and displays some of his current and past project, blogs, and interests.",
+    "author": "Chris Young",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "twitter": "me"
+      "github": "https://github.com/cyoung43",
+      "medium": "https://medium.com/@cyoung.byu",
+      "linkedin": "https://www.linkedin.com/in/chris-young22/",
+      "twitter": "https://twitter.com/chrisyoung0"
     }
   },
   "siteConfiguration": {
