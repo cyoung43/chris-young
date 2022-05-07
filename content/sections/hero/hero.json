@@ -4,13 +4,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm Chris Young",
+  "title": "I'm a problem solver",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "I develop solutions for ",
+    "highlight": "hard problems",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I'm a father, husband, sports guy, tech nerd, and lifelong learner.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Twitter"],
     "showIcons": false
