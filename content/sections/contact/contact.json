@@ -3,8 +3,8 @@
   "email": "chris@chris-young.dev",
   "description": "If you would like to chat or collaborate, please reach out!",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/Chris_Young.jpg",
+    "alt": "Me"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Twitter"],

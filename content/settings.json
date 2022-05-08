@@ -3,7 +3,7 @@
     "language": "en",
     "siteUrl": "https://www.chris-young.dev",
     "title": "Chris Young",
-    "titleTemplate": "Chris Young personal website and portfolio.",
+    "titleTemplate": "%s · Portfolio",
     "description": "This is the personal website of Chris Young and displays some of his current and past project, blogs, and interests.",
     "author": "Chris Young",
     "avatar": "../content/images/gatsby.png",
