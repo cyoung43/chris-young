@@ -60,6 +60,6 @@
   "button": {
     "visible": false,
     "label": "+ Load More",
-    "initiallyShownInterests": 8
+    "initiallyShownInterests": 10
   }
 }
