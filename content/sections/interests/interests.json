@@ -3,7 +3,7 @@
     {
       "label": "React",
       "image": {
-        "src": "../../images/react.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
@@ -24,14 +24,21 @@
     {
       "label": "Basketball",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/basketball.png",
         "alt": ""
       }
     },
     {
       "label": "Golf",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/golfer.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Machine Learning",
+      "image": {
+        "src": "../../images/robot.png",
         "alt": ""
       }
     },
@@ -43,19 +50,19 @@
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Outdoors",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/mountain.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
+        "label": "Reading",
+        "image": {
+            "src": "../../images/reading.png",
+            "alt": ""
+        }
       }
-    }
   ],
   "button": {
     "visible": false,
