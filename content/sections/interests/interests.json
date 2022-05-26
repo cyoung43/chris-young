@@ -1,72 +1,86 @@
 {
-  "interests": [
-    {
-      "label": "React",
-      "image": {
-        "src": "../../images/js.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Python",
-      "image": {
-        "src": "../../images/python.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Software Development",
-      "image": {
-        "src": "../../images/code.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Basketball",
-      "image": {
-        "src": "../../images/basketball.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Golf",
-      "image": {
-        "src": "../../images/golfer.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Machine Learning",
-      "image": {
-        "src": "../../images/robot.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "App Development",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Outdoors",
-      "image": {
-        "src": "../../images/mountain.png",
-        "alt": ""
-      }
-    },
-    {
-        "label": "Reading",
-        "image": {
-            "src": "../../images/reading.png",
-            "alt": ""
+    "interests": [
+        {
+            "label": "React",
+            "image": {
+                "src": "../../images/js.png",
+                "alt": "JavaScript logo"
+            }
+        },
+        {
+            "label": "Python",
+            "image": {
+                "src": "../../images/python.png",
+                "alt": "Python logo"
+            }
+        },
+        {
+            "label": "Software Development",
+            "image": {
+                "src": "../../images/code.png",
+                "alt": "Computer"
+            }
+        },
+        {
+            "label": "Basketball",
+            "image": {
+                "src": "../../images/basketball.png",
+                "alt": "Basketball"
+            }
+        },
+        {
+            "label": "Golf",
+            "image": {
+                "src": "../../images/golfer.png",
+                "alt": "Golf"
+            }
+        },
+        {
+            "label": "Machine Learning",
+            "image": {
+                "src": "../../images/robot.png",
+                "alt": "Robot"
+            }
+        },
+        {
+            "label": "App Development",
+            "image": {
+                "src": "../../images/mobile-phone.png",
+                "alt": "Mobile phone"
+            }
+        },
+        {
+            "label": "Outdoors",
+            "image": {
+                "src": "../../images/mountain.png",
+                "alt": "Mountain"
+            }
+        },
+        {
+            "label": "Sports Analytics",
+            "image": {
+                "src": "../../images/basketball_player.png",
+                "alt": "Basketball Player"
+            }
+        },
+        {
+            "label": "Reading",
+            "image": {
+                "src": "../../images/reading.png",
+                "alt": "Book"
+            }
+        },
+        {
+            "label": "Data Engineering",
+            "image": {
+                "src": "../../images/wrench.png",
+                "alt": "Book"
+            }
         }
-      }
-  ],
-  "button": {
-    "visible": false,
-    "label": "+ Load More",
-    "initiallyShownInterests": 10
-  }
+    ],
+    "button": {
+        "visible": false,
+        "label": "+ Load More",
+        "initiallyShownInterests": 10
+    }
 }

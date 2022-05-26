@@ -1,47 +1,47 @@
 {
-  "projects": [
-    {
-      "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
-      "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
-      },
-      "links": [
+    "projects": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+            "visible": true,
+            "category": "🏀 Sports Analytics",
+            "title": "NBA Stats Site",
+            "description": "This is your go to site for NBA player and team analysis. Inspired by ESPN and basketball-reference.com, this site pulls advanced NBA player metrics and displays them in appealing charts to compare year-over-year averages.",
+            "tags": ["Basketball", "React", "Python"],
+            "image": {
+                "src": "../../images/nba.jpg",
+                "alt": "Quick Setup"
+        },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/cyoung43/nba_api"
+                },
+                {
+                    "type": "external",
+                    "url": "https://github.com/cyoung43/nba_api"
+                }
+            ]
         },
         {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+            "visible": true,
+            "category": "🛠️ Data Engineering",
+            "title": "Airflow Pipeline",
+            "description": "This is a demo project that showcases airflow integration with airbyte (an open-source data integration tool) and dbt (an open-source data transformation engine). It also includes automated slack alerts and helpful information on Docker containers",
+            "tags": ["Python", "Docker"],
+            "image": {
+                "src": "../../images/airflow.png",
+                "alt": "Airflow"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/cyoung43/airflow-demo"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+    ],
+    "button": {
+        "visible": true,
+        "label": "Visit on Github",
+        "url": "https://github.com/cyoung43"
     }
-  ],
-  "button": {
-    "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/cyoung43"
-  }
 }
