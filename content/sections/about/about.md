@@ -3,12 +3,10 @@ imageSrc: "../../images/hero.jpg"
 imageAlt: "Photo of Chris Young and family"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Recent graduate of BYU's Master of Information Systems Management program. Currently, I work as a data engineer at Eide Bailly.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I like to dabble in all things data, sports analytics, development, and cloud ops. 
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I am driven by team environments where we tackle challenging issues. I love finding creative and innovative solutions for all types of problems.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Enjoys basketball, golf, Star Wars, coding, hiking, MarioKart, and more!
