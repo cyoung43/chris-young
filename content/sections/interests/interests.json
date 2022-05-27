@@ -24,7 +24,7 @@
         {
             "label": "Basketball",
             "image": {
-                "src": "../../images/basketball.png",
+                "src": "../../images/basketball_player.png",
                 "alt": "Basketball"
             }
         },
@@ -59,7 +59,7 @@
         {
             "label": "Sports Analytics",
             "image": {
-                "src": "../../images/basketball_player.png",
+                "src": "../../images/basketball.png",
                 "alt": "Basketball Player"
             }
         },

@@ -1,9 +1,9 @@
 ---
-imageSrc: "../../images/hero.jpg"
-imageAlt: "Photo of Chris Young and family"
+imageSrc: '../../images/hero.jpg'
+imageAlt: 'Photo of Chris Young and family'
 ---
 
-Recent graduate of BYU's Master of Information Systems Management program. Currently, I work as a data engineer at Eide Bailly.
+Recent grad of BYU's Master of Information Systems Management program. Currently, I work as a data engineer at Eide Bailly.
 
 I like to dabble in all things data, sports analytics, development, and cloud ops. 
 
