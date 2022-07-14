@@ -3,13 +3,13 @@ title: 'BYU MISM Review'
 description: 'My thoughts on the BYU Information Systems program'
 date: '2022-07-13'
 banner:
-    src: '../../articles/images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg'
-    alt: 'First Markdown Post'
-    caption: 'Photo by <u><a href="https://unsplash.com/photos/7kr0AGpd1Kw">Daniel Tong</a></u>'
+    src: '../../images/articles/daniel-tong-7kr0AGpd1Kw-unsplash.jpg'
+    alt: 'Picture of Y Mountain'
+    caption: 'Photo by <u><a href="https://unsplash.com/photos/7kr0AGpd1Kw">Daniel Tong</a></u> on Unsplash'
   
 categories:
-    - 'Setup'
-    - 'Tutorial'
+    - 'School'
+    - 'Tech'
 keywords:
     - 'BYU'
     - 'Information Systems'
@@ -18,4 +18,8 @@ keywords:
     - 'Analytics'
 ---
 
-This article is one that I am trying to write.
+I started the BYU Information Systems program in Fall 2019. To give some context of how I found the best major on campus is somewhat of a journey. I started BYU in the fall of 2017, fresh off a mission to Bacolod, Philippines 🇵🇭. I drew inspiration from my Mission President and tried my hand at Civil Engineering. Unfortunately, I couldn't fathom taking Calculus II and other math classes down the road.
+
+The next semester, I looked into pre-med with the hopes of being an ophthalmologist. Again, I couldn't get imagine taking more Chemistry and eventually oChem classes so after returning home for the summer, I looked into business, specifically, Accounting.
+
+I loved my Accounting 200 class. I had finally found a class that made sense to me and something that I was good at. 
