@@ -36,5 +36,17 @@ This was the semester where you knock out most of the required classes for the M
 2. `HRM 540` - Organizational Behavior. This was an all-time course during my program. I loved the content, the professor, and the well thought out activities that were designed to help us learn and grow. I highly recommend this course with Professor Bednar.
 3. `IS 555` - Advanced Data Analytics. This course compounded on what I learned in `IS 415`, yet with a heavier focus on machine learning algorithms and interpretation of fit and results. I learned a lot in that class about how to select the right model and fine tune it for the dataset to get the best results possible.
 4. `IS 560` - Information Security Management. This was another one of my favorite classes that had great content and great application outside the classroom. I learned how to see things at the CIO-level, like crafting a response plan in event of a system breach, to ethical hacking and ensuring your defenses are strong enough. A tremendous class.
-5. 
+
+I did really well in my classes this semester, and I also really enjoyed the classes I took.
+
+#### Winter MISM 1
+I like to nickname this semester the "dev semester". This semester I took a lot of development-heavy courses to expose myself and make me grow outside my comfort zone.
+1. `IS 537` - Data Structures. I highly recommend this class for any aspiring software engineers. It's expected that you know what data structures are and that you are fairly competent in manipulating them to do what you need to. While the class focuses on classic coding problems, I learned a lot and felt much better about my chances in an interview.
+2. `IS 542` - Advanced Web Development. This class really dove into JavaScript, CSS, and React. I really enjoyed the class because it pushed me to increase my skills and learning and get better at something that I wasn't very confident in. As a result, I love programming a lot more now and I hope to rely on best practices in my projects that I learned in this class.
+3. `IS 590R` - Full Stack Development. This class really gave me a taste into the life of a software engineer. This class was a single full-stack project, where we designed and built a secure API with Java, launched microservices via Docker and Terraform, and built a front-end with React, StoryBook, and more. It was a complex project and I am still trying to wrap my head around everything that went into it. I really enjoyed the class though and learned a lot.
+4. `MSB 572` - Ethics. Great class about timeless principles to live by. I felt that I was able to develop my character in that class and really examine the person that I want to be.
+5. `Strat 560` - Strategy for Organizations. This was an interesting class that incorporated principles from economics and calculus to help examine industry conditions, product competitiveness, and how to accelerate the growth of a company. It was an interesting class, but made me glad that I chose IS over strategy and accounting. However, I fully expect to rely more on these principles as I outgrow the technical roles and become more involved in management.
+
+### Wrap-up
+This was a course-intensive year where I accelerated personally and mentally. I learned so many new skills, ways of thinking, and how to be a good asset and leader in my firms. 
 
