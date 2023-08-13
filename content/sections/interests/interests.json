@@ -15,6 +15,13 @@
             }
         },
         {
+            "label": "AWS",
+            "image": {
+                "src": "../../images/cloud.png",
+                "alt": "Cloud"
+            }
+        },
+        {
             "label": "Software Development",
             "image": {
                 "src": "../../images/code.png",
@@ -74,7 +81,7 @@
             "label": "Data Engineering",
             "image": {
                 "src": "../../images/wrench.png",
-                "alt": "Book"
+                "alt": "Data Engineering"
             }
         }
     ],
